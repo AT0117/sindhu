@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641595284306",
+    "project_id": "sindhu-safety",
+    "storage_bucket": "sindhu-safety.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641595284306:android:b6c93383886e9f9685b88b",
+        "android_client_info": {
+          "package_name": "com.example.sindhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641595284306-9nan50aitfome35jbi5cs6fp7mlgaafn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sindhu",
+            "certificate_hash": "7fb0fd71b749b188ecfc57ab1cdae445b2c17ee2"
+          }
+        },
+        {
+          "client_id": "641595284306-ha1gtcf2u7555ddj0dr2ed9svhhasbaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLKt8ysz25a9qt5kH4m6aGTniJPpR1CG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641595284306-ha1gtcf2u7555ddj0dr2ed9svhhasbaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
