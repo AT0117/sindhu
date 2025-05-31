@@ -1,16 +1,7 @@
 # sindhu
 
-A new Flutter project.
+Sindhu is a cross platform application developed in Flutter Framework that determines the suitability of recreational activities on beaches across India by analyzing paramaters like wind speed, wave height, air quality, uv index, etc.
 
-## Getting Started
+## Website preview -
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://sindhu-safety.web.app
